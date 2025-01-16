@@ -59,7 +59,7 @@ int main() {
 }
 ```
 #### Salida
-```c
+```text
 Antes del intercambio: a = 10, b = 20
 Después del intercambio: a = 20 b = 10
 ```
@@ -98,7 +98,7 @@ bubbleSort($array);
 echo "Arreglo ordenado: " . formatArray($array);
 ```
 #### Salida
-```php
+```text
 Arreglo original: [64, 34, 25, 12, 22, 11, 90]
 Arreglo ordenado: [11, 12, 22, 25, 34, 64, 90]
 ```
