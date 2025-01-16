@@ -23,11 +23,11 @@ Para realizar el cambio de valores en las variables se debe realizar la operaci�
    Resultado: `A = 1110` (14 en decimal)
 
 ### Tabla Resumen de Operaciones:
-| Operación         | A | B | Resultado |
-|-------------------|-------------|-------------|---------------------|
-| **1. A = A ⊕ B**  | 1010        | 1110        | 0100                |
-| **2. B = A ⊕ B**  | 0100        | 1110        | 1010                |
-| **3. A = A ⊕ B**  | 0100        | 1010        | 1110                |
+| Operación         | A      | B      | Resultado |
+|-------------------|--------|--------|-----------|
+| **1. A = A ⊕ B**  | 1010   | 1110   | 0100      |
+| **2. B = A ⊕ B**  | 0100   | 1110   | 1010      |
+| **3. A = A ⊕ B**  | 0100   | 1010   | 1110      |
 
 
 ### Resultado Final:
